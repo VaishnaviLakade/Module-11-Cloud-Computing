@@ -15,13 +15,16 @@ Output:
 ![AWS_Account_Setup](https://github.com/user-attachments/assets/ba41d468-7aa8-4001-b77e-9661b9e1ca96)
 
 2) Launch Of EC2 instance
-![AWS_Account_Setup](https://github.com/user-attachments/assets/970e1d92-bc65-404c-b431-dc4c386b7c36)
+![EC2_Launch](https://github.com/user-attachments/assets/cd5b0d4d-9e1d-42d3-9cb6-aaa79820c496)
+
 
 3) Running EC2 instance
-![AWS_Account_Setup](https://github.com/user-attachments/assets/8ece8037-9547-449b-88c2-e9a0d19d8078)
+![Running_Instance_of_EC2](https://github.com/user-attachments/assets/59b45386-6d5c-487a-98db-6f0b30c57757)
+
 
 4)Launched Ubuntu 
-![AWS_Account_Setup](https://github.com/user-attachments/assets/75fc3bf1-a0a5-467e-8ab5-c4418945751a)
+![Running_Instance_Of_AWS_EC2](https://github.com/user-attachments/assets/6d7f9590-19a0-4126-b598-66b6e4d5d2d3)
+
 
 
 
