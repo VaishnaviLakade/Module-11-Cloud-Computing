@@ -19,5 +19,6 @@ Used AWS S3 To deploy HTML website
 
 Website successfully hosted and accessible via URL.
 
-Conclusion
+Conclusion:
+
 Learned how cloud platforms host static websites.
