@@ -4,7 +4,6 @@ Cloud Computing Practicals (AWS)
 
 This repository contains hands-on practicals performed to understand the fundamentals of **Cloud Computing** using AWS services.
 
-The aim of this project is to explore different cloud service models like **IaaS, Storage, and Serverless Computing** through real implementations.
 
 ---
 
