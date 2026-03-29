@@ -14,7 +14,7 @@ Output:
 1) Login In to the AWS account
 ![AWS_Account_Setup](https://github.com/user-attachments/assets/ba41d468-7aa8-4001-b77e-9661b9e1ca96)
 
-2) Lounch Of EC2 instance
+2) Launch Of EC2 instance
 ![AWS_Account_Setup](https://github.com/user-attachments/assets/970e1d92-bc65-404c-b431-dc4c386b7c36)
 
 3) Running EC2 instance
