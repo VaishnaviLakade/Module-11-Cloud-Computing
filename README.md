@@ -49,7 +49,7 @@ The aim of this project is to explore different cloud service models like **IaaS
 
 ---
 
-### 4️⃣ AWS Lambda - Serverless Computing
+# AWS Lambda - Serverless Computing
 
 * Created a Lambda function
 * Wrote Python code
